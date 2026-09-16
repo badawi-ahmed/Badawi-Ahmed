@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Badawi Ahmed 👋
 
-<!--
-**badawi-ahmed/Badawi-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer | React.js | JavaScript
 
-Here are some ideas to get you started:
+I'm a Front-End Developer focused on building modern, responsive, and interactive web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas and designs into clean, user-friendly websites and React applications.
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Tailwind CSS
+- Bootstrap
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+### 🎮 VYRON – Where Gaming Meets Greatness
+
+A front-end gaming e-commerce website featuring game browsing, search, favorites, shopping cart, authentication, and LocalStorage.
+
+**Technologies:** HTML5 • CSS3 • JavaScript • Font Awesome
+
+🔗 [Live Demo](https://badawi-ahmed.github.io/VYRON/)  
+🔗 [GitHub Repository](https://github.com/Badawi-Ahmed/VYRON)
+
+### 💻 My Portfolio
+
+My personal React portfolio showcasing my skills, projects, and front-end development work.
+
+🔗 [Live Portfolio](https://badawi-ahmed.github.io/Badawi-Protfolio/)
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/badawi-ahmed-hewady-566a89399)
+- [Instagram](https://instagram.com/badawyahmedhewady)
+
+---
+
+⭐ Thanks for visiting my profile!
